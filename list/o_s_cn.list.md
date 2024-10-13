@@ -548,6 +548,5 @@
 | 542 | QTV-2 | [QTV-2](http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8) |
 | 543 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
 | 544 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
-| 545 | Lasa TV | [Lasa TV](https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8) |
 
-Updated at **Sat Oct 12 2024 09:32:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 13 2024 09:32:50 GMT+0000 (Coordinated Universal Time)**
